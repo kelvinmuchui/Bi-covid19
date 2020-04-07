@@ -1,0 +1,9 @@
+python-3.7.2
+
+
+activate the virtualenv
+
+install requirements
+pip install -r requirements.txt
+
+run python app.py
